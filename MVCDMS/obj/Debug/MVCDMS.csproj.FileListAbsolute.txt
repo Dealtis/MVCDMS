@@ -254,3 +254,4 @@ Y:\INETPUB\MVCDTMS\MVCDMS\MVCDMS\bin\zh-Hant\System.Spatial.resources.dll
 Y:\INETPUB\MVCDTMS\MVCDMS\MVCDMS\obj\Debug\MVCDMS.dll
 Y:\INETPUB\MVCDTMS\MVCDMS\MVCDMS\obj\Debug\MVCDMS.pdb
 Y:\MVCDTMS\MVCDMS\MVCDMS\obj\Debug\MVCDMS.csprojResolveAssemblyReference.cache
+D:\INETPUB\MVCDTMS\MVCDMS\MVCDMS\obj\Debug\MVCDMS.csprojResolveAssemblyReference.cache
