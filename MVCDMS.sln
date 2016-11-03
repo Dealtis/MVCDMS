@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCDMS", "MVCDMS\MVCDMS.csproj", "{24938DE9-C284-40F7-9D96-4549588E6803}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsLib", "..\..\ANDSYS_JET\Lib\VS\Lib\AsLib\AsLib.csproj", "{348A157B-D4A7-44D9-B8FD-4F9A66FC9ABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsTmsLib", "..\..\ANDSYS_JET\Lib\VS\Lib\AsTmsLib\AsTmsLib.csproj", "{2C14D754-FD17-4B66-BE74-9D5BE1374FBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24938DE9-C284-40F7-9D96-4549588E6803}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24938DE9-C284-40F7-9D96-4549588E6803}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24938DE9-C284-40F7-9D96-4549588E6803}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24938DE9-C284-40F7-9D96-4549588E6803}.Release|Any CPU.Build.0 = Release|Any CPU
+		{348A157B-D4A7-44D9-B8FD-4F9A66FC9ABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348A157B-D4A7-44D9-B8FD-4F9A66FC9ABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348A157B-D4A7-44D9-B8FD-4F9A66FC9ABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348A157B-D4A7-44D9-B8FD-4F9A66FC9ABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C14D754-FD17-4B66-BE74-9D5BE1374FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C14D754-FD17-4B66-BE74-9D5BE1374FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C14D754-FD17-4B66-BE74-9D5BE1374FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C14D754-FD17-4B66-BE74-9D5BE1374FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
